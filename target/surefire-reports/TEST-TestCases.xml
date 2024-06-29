@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestCases" time="44.08" tests="11" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestCases" time="43.228" tests="11" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/22/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/aya/Documents/SQA/almosafer/target/surefire/surefirebooter-20240629104543938_3.jar /Users/aya/Documents/SQA/almosafer/target/surefire 2024-06-29T10-45-43_788-jvmRun1 surefire-20240629104543938_1tmp surefire_0-20240629104543938_2tmp"/>
+    <property name="sun.java.command" value="/Users/aya/Documents/SQA/almosafer/target/surefire/surefirebooter-20240629105119434_3.jar /Users/aya/Documents/SQA/almosafer/target/surefire 2024-06-29T10-51-19_300-jvmRun1 surefire-20240629105119434_1tmp surefire_0-20240629105119434_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="TestCases"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/aya/Documents/SQA/almosafer/target/surefire/surefirebooter-20240629104543938_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/aya/Documents/SQA/almosafer/target/surefire/surefirebooter-20240629105119434_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="22"/>
@@ -60,22 +60,22 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="language" classname="TestCases" time="0.08">
+  <testcase name="language" classname="TestCases" time="0.059">
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Jun 29, 2024 10:45:45 AM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+Jun 29, 2024 10:51:20 AM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
 WARNING: The chromedriver version (125.0.6422.78) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (126.0.6478.127); currently, chromedriver 126.0.6478.126 is recommended for chrome 126.*, so it is advised to delete the driver in PATH and retry
 ]]></system-err>
   </testcase>
-  <testcase name="currency" classname="TestCases" time="0.042"/>
-  <testcase name="contactNumber" classname="TestCases" time="0.042"/>
-  <testcase name="qitafLogoPresence" classname="TestCases" time="0.219"/>
-  <testcase name="hotelSearchTab" classname="TestCases" time="0.041"/>
-  <testcase name="flightDates" classname="TestCases" time="0.088"/>
-  <testcase name="changeLangRandomly" classname="TestCases" time="1.459"/>
-  <testcase name="hotelTabSelection" classname="TestCases" time="2.216"/>
-  <testcase name="noOfPeople" classname="TestCases" time="6.996"/>
-  <testcase name="waitForLoading" classname="TestCases" time="18.108"/>
-  <testcase name="sort" classname="TestCases" time="5.882"/>
+  <testcase name="currency" classname="TestCases" time="0.031"/>
+  <testcase name="contactNumber" classname="TestCases" time="0.034"/>
+  <testcase name="qitafLogoPresence" classname="TestCases" time="0.094"/>
+  <testcase name="hotelSearchTab" classname="TestCases" time="0.166"/>
+  <testcase name="flightDates" classname="TestCases" time="0.065"/>
+  <testcase name="changeLangRandomly" classname="TestCases" time="1.05"/>
+  <testcase name="hotelTabSelection" classname="TestCases" time="1.565"/>
+  <testcase name="noOfPeople" classname="TestCases" time="6.59"/>
+  <testcase name="waitForLoading" classname="TestCases" time="15.489"/>
+  <testcase name="sort" classname="TestCases" time="4.678"/>
 </testsuite>

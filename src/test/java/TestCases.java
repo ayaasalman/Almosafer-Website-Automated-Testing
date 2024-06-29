@@ -162,7 +162,7 @@ public class TestCases {
         Assert.assertTrue(firstPrice < lastPrice);
     }
 
-    @AfterTest(enabled = false)
+    @AfterTest
     public void quitChrome() throws InterruptedException {
         Thread.sleep(5000);
         driver.quit();
