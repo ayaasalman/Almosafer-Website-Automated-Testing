@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-29T10:51:23 EET" name="Surefire suite" finished-at="2024-06-29T10:52:02 EET" duration-ms="39205">
+  <suite started-at="2024-06-29T11:19:34 EET" name="Surefire suite" finished-at="2024-06-29T11:20:07 EET" duration-ms="33604">
     <groups>
     </groups>
-    <test started-at="2024-06-29T10:51:23 EET" name="Surefire test" finished-at="2024-06-29T10:52:02 EET" duration-ms="39205">
+    <test started-at="2024-06-29T11:19:34 EET" name="Surefire test" finished-at="2024-06-29T11:20:07 EET" duration-ms="33604">
       <class name="TestCases">
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:23 EET" name="setup" finished-at="2024-06-29T10:51:27 EET" duration-ms="3932" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:34 EET" name="setup" finished-at="2024-06-29T11:19:39 EET" duration-ms="4898" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="language()[pri:1, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:27 EET" name="language" finished-at="2024-06-29T10:51:27 EET" duration-ms="56" status="PASS">
+        <test-method signature="language()[pri:1, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:39 EET" name="language" finished-at="2024-06-29T11:19:39 EET" duration-ms="69" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- language -->
-        <test-method signature="currency()[pri:2, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:27 EET" name="currency" finished-at="2024-06-29T10:51:27 EET" duration-ms="46" status="PASS">
+        <test-method signature="currency()[pri:2, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:39 EET" name="currency" finished-at="2024-06-29T11:19:39 EET" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currency -->
-        <test-method signature="contactNumber()[pri:3, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:27 EET" name="contactNumber" finished-at="2024-06-29T10:51:27 EET" duration-ms="33" status="PASS">
+        <test-method signature="contactNumber()[pri:3, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:39 EET" name="contactNumber" finished-at="2024-06-29T11:19:39 EET" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contactNumber -->
-        <test-method signature="qitafLogoPresence()[pri:4, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:27 EET" name="qitafLogoPresence" finished-at="2024-06-29T10:51:27 EET" duration-ms="94" status="PASS">
+        <test-method signature="qitafLogoPresence()[pri:4, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:39 EET" name="qitafLogoPresence" finished-at="2024-06-29T11:19:39 EET" duration-ms="302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- qitafLogoPresence -->
-        <test-method signature="hotelSearchTab()[pri:5, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:27 EET" name="hotelSearchTab" finished-at="2024-06-29T10:51:28 EET" duration-ms="166" status="PASS">
+        <test-method signature="hotelSearchTab()[pri:5, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:39 EET" name="hotelSearchTab" finished-at="2024-06-29T11:19:39 EET" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hotelSearchTab -->
-        <test-method signature="flightDates()[pri:6, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:28 EET" name="flightDates" finished-at="2024-06-29T10:51:28 EET" duration-ms="64" status="PASS">
+        <test-method signature="flightDates()[pri:6, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:39 EET" name="flightDates" finished-at="2024-06-29T11:19:40 EET" duration-ms="888" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flightDates -->
-        <test-method signature="changeLangRandomly()[pri:7, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:28 EET" name="changeLangRandomly" finished-at="2024-06-29T10:51:29 EET" duration-ms="1051" status="PASS">
+        <test-method signature="changeLangRandomly()[pri:7, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:40 EET" name="changeLangRandomly" finished-at="2024-06-29T11:19:41 EET" duration-ms="990" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- changeLangRandomly -->
-        <test-method signature="hotelTabSelection()[pri:8, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:29 EET" name="hotelTabSelection" finished-at="2024-06-29T10:51:30 EET" duration-ms="1565" status="PASS">
+        <test-method signature="hotelTabSelection()[pri:8, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:41 EET" name="hotelTabSelection" finished-at="2024-06-29T11:19:43 EET" duration-ms="1485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hotelTabSelection -->
-        <test-method signature="noOfPeople()[pri:9, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:30 EET" name="noOfPeople" finished-at="2024-06-29T10:51:37 EET" duration-ms="6589" status="PASS">
+        <test-method signature="noOfPeople()[pri:9, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:43 EET" name="noOfPeople" finished-at="2024-06-29T11:19:49 EET" duration-ms="6003" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- noOfPeople -->
-        <test-method signature="waitForLoading()[pri:10, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:37 EET" name="waitForLoading" finished-at="2024-06-29T10:51:52 EET" duration-ms="15489" status="PASS">
+        <test-method signature="waitForLoading()[pri:10, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:49 EET" name="waitForLoading" finished-at="2024-06-29T11:19:58 EET" duration-ms="9510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- waitForLoading -->
-        <test-method signature="sort()[pri:11, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:52 EET" name="sort" finished-at="2024-06-29T10:51:57 EET" duration-ms="4679" status="PASS">
+        <test-method signature="sort()[pri:11, instance:TestCases@7f132176]" started-at="2024-06-29T11:19:58 EET" name="sort" finished-at="2024-06-29T11:20:02 EET" duration-ms="3865" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sort -->
-        <test-method is-config="true" signature="quitChrome()[pri:0, instance:TestCases@30af5b6b]" started-at="2024-06-29T10:51:57 EET" name="quitChrome" finished-at="2024-06-29T10:52:02 EET" duration-ms="5344" status="PASS">
+        <test-method is-config="true" signature="quitChrome()[pri:0, instance:TestCases@7f132176]" started-at="2024-06-29T11:20:02 EET" name="quitChrome" finished-at="2024-06-29T11:20:07 EET" duration-ms="5328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitChrome -->

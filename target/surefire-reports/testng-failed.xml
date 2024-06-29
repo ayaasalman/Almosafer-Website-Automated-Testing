@@ -5,9 +5,9 @@
     <classes>
       <class name="TestCases">
         <methods>
+          <include name="waitForLoading"/>
           <include name="quitChrome"/>
           <include name="setup"/>
-          <include name="sort"/>
         </methods>
       </class> <!-- TestCases -->
     </classes>
