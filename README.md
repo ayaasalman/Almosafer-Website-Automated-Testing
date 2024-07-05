@@ -6,7 +6,7 @@ This repository contains automated tests utilizing Selenium and TestNG framework
 ## Technologies Used
 
 - **Java**: Programming language used for writing the tests.
-- **Selenium**: Framework for automating web applications for testing purposes, and for browser automation.
+- **Selenium**: Framework for automating web applications for testing purposes and for browser automation.
 - **TestNG**: Testing framework inspired by JUnit and NUnit, designed for test configuration and management.
 
 
