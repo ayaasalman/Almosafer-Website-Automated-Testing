@@ -15,3 +15,5 @@ This repository contains automated tests utilizing Selenium and TestNG framework
 The following image shows the test cases conducted:
 
 ![Test Cases](images/Almosafer-Test-Cases.jpeg)
+
+The test cases can be found in the file [TestCases.java](src/test/java/TestCases.java).
