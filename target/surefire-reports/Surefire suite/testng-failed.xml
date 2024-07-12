@@ -5,9 +5,19 @@
     <classes>
       <class name="TestCases">
         <methods>
-          <include name="waitForLoading"/>
+          <include name="hotelTabSelection"/>
+          <include name="contactNumber"/>
+          <include name="currency"/>
           <include name="quitChrome"/>
+          <include name="waitForLoading"/>
+          <include name="changeLangRandomly"/>
           <include name="setup"/>
+          <include name="qitafLogoPresence"/>
+          <include name="noOfPeople"/>
+          <include name="sort"/>
+          <include name="language"/>
+          <include name="hotelSearchTab"/>
+          <include name="flightDates"/>
         </methods>
       </class> <!-- TestCases -->
     </classes>
